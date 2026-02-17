@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="cone.fsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kitware.VTK" Version="9.5.2025.1212" />
+  </ItemGroup>
+
+</Project>
