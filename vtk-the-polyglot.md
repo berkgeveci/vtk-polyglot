@@ -1,6 +1,6 @@
 # VTK the Polyglot
 
-I joined Kitware in 2000. VTK was barely 7 years old. Even then, it supported development in C++, Java, Python, and Tcl. Most of developed in C++ and used Tcl/Tk for scripting and application development. In fact, did you know that ParaView's GUI was Tk until ParaView 3 (released in 2007)? Anyway, that's a story for another time. VTK has grown to support many other languages since then. The two big additions being Javascript and C#. Now, whether you're a C++ veteran, a Python scripter, a JVM enthusiast, a Web connoisseur, or a .NET developer, you can tap into the same powerful visualization pipeline.ff
+I joined Kitware in 2000. VTK was barely 7 years old. Even then, it supported development in C++, Java, Python, and Tcl. Most of developed in C++ and used Tcl/Tk for scripting and application development. In fact, did you know that ParaView's GUI was Tk until ParaView 3 (released in 2007)? Anyway, that's a story for another time. VTK has grown to support many other languages since then. The two big additions being Javascript and C#. Now, whether you're a C++ veteran, a Python scripter, a JVM enthusiast, a Web connoisseur, or a .NET developer, you can tap into the same powerful visualization pipeline.
 
 Tcl was the original VTK scripting language, integrated with it from the beginning. Unfortunately, Tcl is not so popular anymore and was removed from VTK in 2020. So no more Tcl scripting with VTK (or maybe not, another story for another day).
 
